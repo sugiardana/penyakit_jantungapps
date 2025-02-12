@@ -76,7 +76,7 @@ st.markdown(
 
 #6. Read File Image for Web
 st.title("❤️Heart Disease Prediction❤️")
-st.image("serangan_jantung.jpg",caption="Heart Disease Awareness", use_column_width=True)
+st.image("sakit-jantung.jpg",caption="Heart Disease Awareness", use_column_width=True)
 
 #7. Iput from user
 
